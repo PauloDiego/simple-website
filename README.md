@@ -27,6 +27,6 @@ Requisitos Mínimos:
 
 ## 📓 Aprendizados
 
-Foi de bastante aprendizado ter colocado em práticas o que a gente aprende durante as aulas. Estruturação da página utilizando de tags semânticas, como </header>, </main>, </section> e </footer>, e a utilização de flex box no css para estruturar. Fiz o projeto todo voltado para conclusão dos requisitos, mas também dando aquele toque de estilização pessoal. 
+Foi de bastante aprendizado ter colocado em práticas o que a gente aprende durante as aulas. Estruturação da página utilizando de tags semânticas e a utilização de flex box no css para estruturar. Fiz o projeto todo voltado para conclusão dos requisitos, mas também dando aquele toque de estilização pessoal. 
 
 
