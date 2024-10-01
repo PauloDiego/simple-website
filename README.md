@@ -29,5 +29,5 @@ Requisitos Mínimos:
 
 Foi de bastante aprendizado ter colocado em práticas o que a gente aprende durante as aulas. Estruturação da página utilizando de tags semânticas e a utilização de flex box no css para estruturar. Fiz o projeto todo voltado para conclusão dos requisitos, mas também dando aquele toque de estilização pessoal. 
 
-![alt text](../site-simples/imgs/image.png)
+![imagem da tela](./imgs/image.png)
 
