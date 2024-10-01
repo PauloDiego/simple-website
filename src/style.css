@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+
+body {
+    background-color: rgb(190, 0, 0);
+    font-family: Afacad Flux;
+}
+
+#todo-conteudo {
+    border: 2px solid white;
+    border-radius: 5px;
+    box-shadow: 5px;
+}
+
+/* HEADER DO SITE */
+header {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#title-site {
+    font-size: 36px;
+    padding: 0px 50px;
+    color: yellow
+}
+
+nav ul{
+    display: flex;
+    gap: 30px;
+    font-size: 18px;
+    list-style-type: none;
+}
+
+nav a {
+    color: yellow;
+    text-decoration: none;
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+
+/* MAIN DO SITE */
+#main {
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+#secao-conteudo {
+    display: block;
+    align-items: center;
+    text-align: center;
+    width: 70%;
+}
+
+#img-section{
+    width: 500px;
+    border-radius: 10px;
+    border: 5px solid black;
+}
+
+#paragrafo-article{
+    padding: 15px 50px;
+    text-align: justify;
+}
+
+#aside {
+    width: 30%;
+    background-color: red;
+    color: yellow;
+}
+
+#aside-title {
+    text-align: center;
+}
+
+aside ul {
+    font-size: 18px;
+    list-style-type: none;
+    border-left: 2px solid yellow;
+    padding-left: 30px;
+    margin-left: 30px;
+}
+
+aside ul li {
+    margin-top: 15px;
+}
+
+aside a {
+    color: yellow;
+    text-decoration: none;
+}
+
+aside a:hover{
+    text-decoration: underline;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: 60px;
+    background-color: black;
+    color: yellow;
+}
